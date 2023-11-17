@@ -8,6 +8,7 @@ This repository contains a collection of projects related to Chemical Engineerin
   - [Cement Quality Prediction](#cement-quality-prediction)
   - [Inventory Management System](#inventory-management-system)
   - [Prediction Model for Reaction Yield](#reaction-yield-prediction)
+  - [Speech to Text Convertor](#speech-to-text-convertor)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
